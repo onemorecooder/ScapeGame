@@ -2,7 +2,8 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package UF1NF2_2_exercices;
+
+//package UF1NF2_2_exercices;
 
 import java.util.Scanner;
 
@@ -10,7 +11,7 @@ import java.util.Scanner;
  *
  * @author ajose
  */
-public class ex_04 {
+public class scape {
 
     /**
      * @param args the command line arguments
